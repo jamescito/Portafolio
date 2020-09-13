@@ -1,0 +1,37 @@
+.M{
+    color: black;
+ text-align: center;  
+ font-family: 'Roboto', sans-serif; 
+}
+h3{
+    color: black;
+}
+img{
+    width: 90%;
+}
+
+.exp{
+    border: 0px;
+    width: 50%;
+    font-family: 'Roboto', sans-serif; 
+}
+.mi_exp{
+text-align: center;
+font-family:'Roboto', sans-serif ;
+
+}
+.imagen
+{
+    width: 10%;
+    border-radius: 50px;
+}
+#id{
+    font-family: 'Roboto', sans-serif; 
+text-align: initial;
+}
+.comun{
+    width: 35%;
+    display: block;
+    margin: auto;
+    
+}
