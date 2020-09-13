@@ -18,6 +18,7 @@ img{
 .mi_exp{
 text-align: center;
 font-family:'Roboto', sans-serif ;
+margin-top: 150px;
 
 }
 .imagen
@@ -34,4 +35,41 @@ text-align: initial;
     display: block;
     margin: auto;
     
+}
+#div{
+    width: 50%;
+    margin-left: 350px;
+    background-color: rgb(224, 218, 218);
+    margin-top: 90px;
+}
+#recomendaciones{
+    
+    margin-top: 150px;
+    text-align: center;
+    width: 55%;
+    display: block;
+    margin: auto;
+    background-color: rgb(224, 218, 218);
+    
+}
+#list{
+    text-align: left;
+    margin-top: 230px;
+}
+#p{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: -5%;
+}
+#p1{
+    background-color: white;
+    margin-left:-8%;
+}
+footer{
+    margin-top: 150px;
+    text-align: center;
+    width:100% ;
+    background-color: rgb(46, 46, 179);
+    display: inline-block;
+    color: white;
 }
